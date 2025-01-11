@@ -1,0 +1,8 @@
+leaf spot
+Aphids
+Armyworm
+Bacterial Blight
+Fusarium Wilt
+Grey milddew
+Healthy
+Leaf Curl

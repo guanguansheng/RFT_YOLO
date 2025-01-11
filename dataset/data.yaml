@@ -1,0 +1,8 @@
+path: G:/ultralytics-main/
+train: ./dataset/images/train
+val: ./dataset/images/val
+test: ./dataset/images/test
+
+nc: 8
+names: ['leaf spot', 'Aphids', 'Armyworm', 'Bacterial Blight', 'Fusarium Wilt', 'Grey milddew', 'Healthy', 'Leaf Curl']
+#叶斑病、蚜虫、粘虫、叶枯病、枯萎病、灰霉病、健康、叶卷病
