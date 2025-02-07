@@ -2,7 +2,7 @@ import warnings
 warnings.filterwarnings('ignore')
 from ultralytics import RTDETR
 
-# 推理参数官方详解链接：https://docs.ultralytics.com/modes/predict/#inference-sources:~:text=of%20Results%20objects-,Inference%20Arguments,-model.predict()
+
 
 if __name__ == '__main__':
     model = RTDETR('runs/trainDETR/exp/weights/best.pt') # select your model.pt path
