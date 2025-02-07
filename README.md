@@ -30,3 +30,20 @@ The code mainly implements the following improvements:
     mmcv: 2.1.0
     mmengine: 0.9.0
 
+
+### Model parameter configuration file
+RFT_YOLO/
+├── ultralytics/
+│   └── cfg/
+│       └── models/
+│           └── v8/                   
+│               ├── yolov8.yaml  
+│               ├── yolov8-C2f-RFCBAMConv.yaml
+│               ├── yolov8-FDPN.yaml 
+│               ├── yolov8-FDPN-TADDH.yaml 
+│               ├── yolov8-RFCBAM-FDPN.yaml
+│               ├── yolov8-RFCBAM-FDPN-TADDH.yaml
+│               ├── yolov8-RFCBAM-TADDH.yaml
+│               └── yolov8-TADDH.yaml 
+
+
