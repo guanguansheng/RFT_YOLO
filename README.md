@@ -36,7 +36,7 @@ RFT_YOLO/
 ├── ultralytics/
 │   └── cfg/
 │       └── models/
-│           └── v8/                   
+│           └── v8/      
 │               ├── yolov8.yaml  
 │               ├── yolov8-C2f-RFCBAMConv.yaml
 │               ├── yolov8-FDPN.yaml 
@@ -45,5 +45,6 @@ RFT_YOLO/
 │               ├── yolov8-RFCBAM-FDPN-TADDH.yaml
 │               ├── yolov8-RFCBAM-TADDH.yaml
 │               └── yolov8-TADDH.yaml 
+
 
 
